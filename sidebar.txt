@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rma:home|Door43 (rma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rma|d43-rma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rma/archive/master.zip|d43-rma.zip]]
+
+**Recent Changes**
+{{changes>ns = rma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rma|Ethnologue data]]
+
